@@ -1,10 +1,12 @@
 {
- "obnovleno": "2026-11-26T12:39:27.242Z",
+ "obnovleno": "2026-11-26T12:40:21.690Z",
  "istochniki": {
   "rpl": "Матч ТВ",
   "kubok": "РФС"
  },
- "preduprezhdeniya": [],
+ "preduprezhdeniya": [
+  "РФС: https://rfs.ru/cup2027: fetch failed (UND_ERR_CONNECT_TIMEOUT). Кубок из прошлых данных."
+ ],
  "sleduyushchiy": {
   "id": "rpl-552665062",
   "turnir": "РПЛ",
