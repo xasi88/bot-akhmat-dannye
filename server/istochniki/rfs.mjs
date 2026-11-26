@@ -7,7 +7,17 @@ const TABLICY = 'https://rfs.ru/cup2027/tables';
 // Страница из 18 блоков: первые 9 «Путь РПЛ», остальные «Путь регионов».
 // У блока описание (Групповой этап, Плей-офф, Раунд N) и подпись (Тур 1, 1/8 финала).
 export function razobratKalendar(html) {
+  return razobrat(html).matchi;
+}
+
+// Все этапы по порядку, даже без матчей: из них строится сетка плей-офф.
+export function razobratEtapy(html) {
+  return razobrat(html).etapy;
+}
+
+function razobrat(html) {
   const matchi = [];
+  const vseEtapy = [];
   // Раздел пути (<h4 class="calendar__title">): сначала список всех этапов
   // (calendar-table__description: title и text), потом блоки матчей в том же порядке.
   for (const razdel of html.split('calendar__title">').slice(1)) {
@@ -18,11 +28,12 @@ export function razobratKalendar(html) {
       const podpis = tekst((kusok.match(/calendar-table__text">([^<]*)</) ?? [])[1] ?? '');
       return [nazv, podpis].filter(Boolean).join(', ');
     });
+    for (const etap of etapy) vseEtapy.push({ put, etap });
     razdel.split('calendar-table__main').slice(1).forEach((blok, nomer) => {
       razobratBlok(blok, put, etapy[nomer] ?? '', matchi);
     });
   }
-  return matchi;
+  return { matchi, etapy: vseEtapy };
 }
 
 function razobratBlok(blok, put, etap, matchi) {
@@ -79,5 +90,5 @@ export function razobratGruppy(html) {
 export async function sobratKubok() {
   const k = await skachat(KALENDAR);
   const t = await skachat(TABLICY);
-  return { matchi: razobratKalendar(k), gruppy: razobratGruppy(t) };
+  return { ...razobrat(k), gruppy: razobratGruppy(t) };
 }

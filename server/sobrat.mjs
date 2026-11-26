@@ -6,6 +6,7 @@ import path from 'node:path';
 import { sobratRpl } from './istochniki/matchtv.mjs';
 import { sobratRplEspn } from './istochniki/espn.mjs';
 import { sobratKubok } from './istochniki/rfs.mjs';
+import { tablicaGde, forma, plejoff } from './podschet.mjs';
 
 export const AHMAT = 'Ахмат';
 const sAhmatom = (m) => m.doma === AHMAT || m.vgostyah === AHMAT;
@@ -44,8 +45,16 @@ export function sobratDannye({ rpl, kubok, istochnikRpl, preduprezhdeniya = [], 
         assistenty: svoi(rpl.statistika.assistenty),
         glyas: svoi(rpl.statistika.glyas),
       },
+      doma: tablicaGde(rpl.matchi, 'doma'),
+      vgostyah: tablicaGde(rpl.matchi, 'vgostyah'),
+      forma: forma(rpl.matchi),
     },
-    kubok: { gruppa, gruppy: kubok.gruppy },
+    kubok: {
+      gruppa,
+      gruppy: [...kubok.gruppy].sort((a, b) => (b === gruppa) - (a === gruppa)),
+      // Прошлые данные без этапов: сетку берём из них как есть.
+      plejoff: kubok.etapy ? plejoff(kubok.matchi, kubok.etapy) : (kubok.plejoff ?? []),
+    },
   };
 }
 
@@ -71,8 +80,8 @@ async function glavnaya() {
     // РФС пускает не все серверы GitHub: Кубок из прошлых данных, сбор не падает.
     preduprezhdeniya.push(`РФС: ${e.message}. Кубок из прошлых данных.`);
     kubok = proshlye
-      ? { matchi: proshlye.matchi.filter((m) => m.turnir === 'Кубок России'), gruppy: proshlye.kubok.gruppy }
-      : { matchi: [], gruppy: [] };
+      ? { matchi: proshlye.matchi.filter((m) => m.turnir === 'Кубок России'), gruppy: proshlye.kubok.gruppy, plejoff: proshlye.kubok.plejoff ?? [] }
+      : { matchi: [], gruppy: [], plejoff: [] };
   }
 
   const dannye = sobratDannye({ rpl, kubok, istochnikRpl, preduprezhdeniya });
