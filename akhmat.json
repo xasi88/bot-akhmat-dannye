@@ -1,12 +1,10 @@
 {
- "obnovleno": "2026-11-26T12:40:21.690Z",
+ "obnovleno": "2026-11-26T13:16:14.352Z",
  "istochniki": {
   "rpl": "Матч ТВ",
   "kubok": "РФС"
  },
- "preduprezhdeniya": [
-  "РФС: https://rfs.ru/cup2027: fetch failed (UND_ERR_CONNECT_TIMEOUT). Кубок из прошлых данных."
- ],
+ "preduprezhdeniya": [],
  "sleduyushchiy": {
   "id": "rpl-552665062",
   "turnir": "РПЛ",
@@ -910,6 +908,476 @@
      "ahmat": false
     }
    ]
+  },
+  "doma": [
+   {
+    "mesto": 1,
+    "komanda": "Динамо М",
+    "igry": 8,
+    "pobedy": 6,
+    "nichi": 2,
+    "porazheniya": 0,
+    "zabito": 15,
+    "propushcheno": 5,
+    "ochki": 20
+   },
+   {
+    "mesto": 2,
+    "komanda": "Спартак",
+    "igry": 8,
+    "pobedy": 6,
+    "nichi": 1,
+    "porazheniya": 1,
+    "zabito": 17,
+    "propushcheno": 4,
+    "ochki": 19
+   },
+   {
+    "mesto": 3,
+    "komanda": "ЦСКА",
+    "igry": 9,
+    "pobedy": 5,
+    "nichi": 3,
+    "porazheniya": 1,
+    "zabito": 14,
+    "propushcheno": 7,
+    "ochki": 18
+   },
+   {
+    "mesto": 4,
+    "komanda": "Краснодар",
+    "igry": 7,
+    "pobedy": 4,
+    "nichi": 2,
+    "porazheniya": 1,
+    "zabito": 13,
+    "propushcheno": 9,
+    "ochki": 14
+   },
+   {
+    "mesto": 5,
+    "komanda": "Зенит",
+    "igry": 7,
+    "pobedy": 4,
+    "nichi": 1,
+    "porazheniya": 2,
+    "zabito": 14,
+    "propushcheno": 9,
+    "ochki": 13
+   },
+   {
+    "mesto": 6,
+    "komanda": "Ростов",
+    "igry": 6,
+    "pobedy": 4,
+    "nichi": 1,
+    "porazheniya": 1,
+    "zabito": 10,
+    "propushcheno": 5,
+    "ochki": 13
+   },
+   {
+    "mesto": 7,
+    "komanda": "Ахмат",
+    "igry": 7,
+    "pobedy": 3,
+    "nichi": 2,
+    "porazheniya": 2,
+    "zabito": 12,
+    "propushcheno": 9,
+    "ochki": 11
+   },
+   {
+    "mesto": 8,
+    "komanda": "Рубин",
+    "igry": 8,
+    "pobedy": 3,
+    "nichi": 2,
+    "porazheniya": 3,
+    "zabito": 10,
+    "propushcheno": 10,
+    "ochki": 11
+   },
+   {
+    "mesto": 9,
+    "komanda": "Оренбург",
+    "igry": 8,
+    "pobedy": 2,
+    "nichi": 4,
+    "porazheniya": 2,
+    "zabito": 9,
+    "propushcheno": 9,
+    "ochki": 10
+   },
+   {
+    "mesto": 10,
+    "komanda": "Балтика",
+    "igry": 8,
+    "pobedy": 2,
+    "nichi": 2,
+    "porazheniya": 4,
+    "zabito": 8,
+    "propushcheno": 10,
+    "ochki": 8
+   },
+   {
+    "mesto": 11,
+    "komanda": "Динамо Мх",
+    "igry": 7,
+    "pobedy": 2,
+    "nichi": 2,
+    "porazheniya": 3,
+    "zabito": 7,
+    "propushcheno": 10,
+    "ochki": 8
+   },
+   {
+    "mesto": 12,
+    "komanda": "Крылья Советов",
+    "igry": 8,
+    "pobedy": 2,
+    "nichi": 2,
+    "porazheniya": 4,
+    "zabito": 9,
+    "propushcheno": 15,
+    "ochki": 8
+   },
+   {
+    "mesto": 13,
+    "komanda": "Акрон",
+    "igry": 7,
+    "pobedy": 2,
+    "nichi": 1,
+    "porazheniya": 4,
+    "zabito": 8,
+    "propushcheno": 15,
+    "ochki": 7
+   },
+   {
+    "mesto": 14,
+    "komanda": "Родина",
+    "igry": 7,
+    "pobedy": 1,
+    "nichi": 3,
+    "porazheniya": 3,
+    "zabito": 10,
+    "propushcheno": 15,
+    "ochki": 6
+   },
+   {
+    "mesto": 15,
+    "komanda": "Локомотив",
+    "igry": 7,
+    "pobedy": 0,
+    "nichi": 4,
+    "porazheniya": 3,
+    "zabito": 5,
+    "propushcheno": 11,
+    "ochki": 4
+   },
+   {
+    "mesto": 16,
+    "komanda": "Факел",
+    "igry": 8,
+    "pobedy": 0,
+    "nichi": 3,
+    "porazheniya": 5,
+    "zabito": 4,
+    "propushcheno": 13,
+    "ochki": 3
+   }
+  ],
+  "vgostyah": [
+   {
+    "mesto": 1,
+    "komanda": "Зенит",
+    "igry": 8,
+    "pobedy": 6,
+    "nichi": 0,
+    "porazheniya": 2,
+    "zabito": 19,
+    "propushcheno": 9,
+    "ochki": 18
+   },
+   {
+    "mesto": 2,
+    "komanda": "Краснодар",
+    "igry": 8,
+    "pobedy": 3,
+    "nichi": 4,
+    "porazheniya": 1,
+    "zabito": 13,
+    "propushcheno": 10,
+    "ochki": 13
+   },
+   {
+    "mesto": 3,
+    "komanda": "Балтика",
+    "igry": 7,
+    "pobedy": 3,
+    "nichi": 3,
+    "porazheniya": 1,
+    "zabito": 11,
+    "propushcheno": 5,
+    "ochki": 12
+   },
+   {
+    "mesto": 4,
+    "komanda": "Динамо М",
+    "igry": 7,
+    "pobedy": 4,
+    "nichi": 0,
+    "porazheniya": 3,
+    "zabito": 9,
+    "propushcheno": 9,
+    "ochki": 12
+   },
+   {
+    "mesto": 5,
+    "komanda": "Спартак",
+    "igry": 7,
+    "pobedy": 3,
+    "nichi": 2,
+    "porazheniya": 2,
+    "zabito": 11,
+    "propushcheno": 8,
+    "ochki": 11
+   },
+   {
+    "mesto": 6,
+    "komanda": "Локомотив",
+    "igry": 8,
+    "pobedy": 3,
+    "nichi": 1,
+    "porazheniya": 4,
+    "zabito": 12,
+    "propushcheno": 10,
+    "ochki": 10
+   },
+   {
+    "mesto": 7,
+    "komanda": "Крылья Советов",
+    "igry": 7,
+    "pobedy": 2,
+    "nichi": 4,
+    "porazheniya": 1,
+    "zabito": 10,
+    "propushcheno": 8,
+    "ochki": 10
+   },
+   {
+    "mesto": 8,
+    "komanda": "Рубин",
+    "igry": 7,
+    "pobedy": 2,
+    "nichi": 4,
+    "porazheniya": 1,
+    "zabito": 7,
+    "propushcheno": 9,
+    "ochki": 10
+   },
+   {
+    "mesto": 9,
+    "komanda": "Ростов",
+    "igry": 9,
+    "pobedy": 2,
+    "nichi": 3,
+    "porazheniya": 4,
+    "zabito": 11,
+    "propushcheno": 14,
+    "ochki": 9
+   },
+   {
+    "mesto": 10,
+    "komanda": "Динамо Мх",
+    "igry": 8,
+    "pobedy": 3,
+    "nichi": 0,
+    "porazheniya": 5,
+    "zabito": 11,
+    "propushcheno": 17,
+    "ochki": 9
+   },
+   {
+    "mesto": 11,
+    "komanda": "ЦСКА",
+    "igry": 6,
+    "pobedy": 2,
+    "nichi": 2,
+    "porazheniya": 2,
+    "zabito": 10,
+    "propushcheno": 11,
+    "ochki": 8
+   },
+   {
+    "mesto": 12,
+    "komanda": "Оренбург",
+    "igry": 7,
+    "pobedy": 1,
+    "nichi": 4,
+    "porazheniya": 2,
+    "zabito": 5,
+    "propushcheno": 7,
+    "ochki": 7
+   },
+   {
+    "mesto": 13,
+    "komanda": "Факел",
+    "igry": 7,
+    "pobedy": 2,
+    "nichi": 0,
+    "porazheniya": 5,
+    "zabito": 7,
+    "propushcheno": 10,
+    "ochki": 6
+   },
+   {
+    "mesto": 14,
+    "komanda": "Ахмат",
+    "igry": 8,
+    "pobedy": 1,
+    "nichi": 3,
+    "porazheniya": 4,
+    "zabito": 6,
+    "propushcheno": 11,
+    "ochki": 6
+   },
+   {
+    "mesto": 15,
+    "komanda": "Родина",
+    "igry": 8,
+    "pobedy": 2,
+    "nichi": 0,
+    "porazheniya": 6,
+    "zabito": 5,
+    "propushcheno": 15,
+    "ochki": 6
+   },
+   {
+    "mesto": 16,
+    "komanda": "Акрон",
+    "igry": 8,
+    "pobedy": 0,
+    "nichi": 5,
+    "porazheniya": 3,
+    "zabito": 9,
+    "propushcheno": 12,
+    "ochki": 5
+   }
+  ],
+  "forma": {
+   "ЦСКА": [
+    "porazh",
+    "pobeda",
+    "nichya",
+    "porazh",
+    "porazh"
+   ],
+   "Балтика": [
+    "nichya",
+    "nichya",
+    "pobeda",
+    "porazh",
+    "pobeda"
+   ],
+   "Динамо М": [
+    "pobeda",
+    "porazh",
+    "pobeda",
+    "pobeda",
+    "nichya"
+   ],
+   "Крылья Советов": [
+    "porazh",
+    "pobeda",
+    "porazh",
+    "pobeda",
+    "porazh"
+   ],
+   "Акрон": [
+    "nichya",
+    "pobeda",
+    "porazh",
+    "porazh",
+    "porazh"
+   ],
+   "Зенит": [
+    "pobeda",
+    "pobeda",
+    "pobeda",
+    "nichya",
+    "porazh"
+   ],
+   "Факел": [
+    "pobeda",
+    "porazh",
+    "porazh",
+    "porazh",
+    "pobeda"
+   ],
+   "Динамо Мх": [
+    "nichya",
+    "porazh",
+    "porazh",
+    "pobeda",
+    "nichya"
+   ],
+   "Спартак": [
+    "pobeda",
+    "porazh",
+    "pobeda",
+    "pobeda",
+    "nichya"
+   ],
+   "Родина": [
+    "nichya",
+    "pobeda",
+    "pobeda",
+    "porazh",
+    "porazh"
+   ],
+   "Локомотив": [
+    "nichya",
+    "porazh",
+    "porazh",
+    "porazh",
+    "pobeda"
+   ],
+   "Ахмат": [
+    "porazh",
+    "porazh",
+    "porazh",
+    "pobeda",
+    "pobeda"
+   ],
+   "Рубин": [
+    "porazh",
+    "porazh",
+    "pobeda",
+    "pobeda",
+    "pobeda"
+   ],
+   "Краснодар": [
+    "nichya",
+    "nichya",
+    "porazh",
+    "pobeda",
+    "nichya"
+   ],
+   "Оренбург": [
+    "nichya",
+    "pobeda",
+    "nichya",
+    "porazh",
+    "porazh"
+   ],
+   "Ростов": [
+    "nichya",
+    "pobeda",
+    "pobeda",
+    "nichya",
+    "pobeda"
+   ]
   }
  },
  "kubok": {
@@ -968,59 +1436,6 @@
   },
   "gruppy": [
    {
-    "nazvanie": "Группа А",
-    "komandy": [
-     {
-      "mesto": 1,
-      "komanda": "Спартак",
-      "igry": 5,
-      "pobedy": 4,
-      "pobedyPen": 0,
-      "porazheniya": 0,
-      "porazheniyaPen": 1,
-      "zabito": 14,
-      "propushcheno": 5,
-      "ochki": 13
-     },
-     {
-      "mesto": 2,
-      "komanda": "Оренбург",
-      "igry": 5,
-      "pobedy": 3,
-      "pobedyPen": 0,
-      "porazheniya": 1,
-      "porazheniyaPen": 1,
-      "zabito": 12,
-      "propushcheno": 9,
-      "ochki": 10
-     },
-     {
-      "mesto": 3,
-      "komanda": "Рубин",
-      "igry": 6,
-      "pobedy": 0,
-      "pobedyPen": 3,
-      "porazheniya": 3,
-      "porazheniyaPen": 0,
-      "zabito": 4,
-      "propushcheno": 13,
-      "ochki": 6
-     },
-     {
-      "mesto": 4,
-      "komanda": "Родина",
-      "igry": 6,
-      "pobedy": 1,
-      "pobedyPen": 0,
-      "porazheniya": 4,
-      "porazheniyaPen": 1,
-      "zabito": 11,
-      "propushcheno": 14,
-      "ochki": 4
-     }
-    ]
-   },
-   {
     "nazvanie": "Группа B",
     "komandy": [
      {
@@ -1070,6 +1485,59 @@
       "zabito": 4,
       "propushcheno": 10,
       "ochki": 5
+     }
+    ]
+   },
+   {
+    "nazvanie": "Группа А",
+    "komandy": [
+     {
+      "mesto": 1,
+      "komanda": "Спартак",
+      "igry": 5,
+      "pobedy": 4,
+      "pobedyPen": 0,
+      "porazheniya": 0,
+      "porazheniyaPen": 1,
+      "zabito": 14,
+      "propushcheno": 5,
+      "ochki": 13
+     },
+     {
+      "mesto": 2,
+      "komanda": "Оренбург",
+      "igry": 5,
+      "pobedy": 3,
+      "pobedyPen": 0,
+      "porazheniya": 1,
+      "porazheniyaPen": 1,
+      "zabito": 12,
+      "propushcheno": 9,
+      "ochki": 10
+     },
+     {
+      "mesto": 3,
+      "komanda": "Рубин",
+      "igry": 6,
+      "pobedy": 0,
+      "pobedyPen": 3,
+      "porazheniya": 3,
+      "porazheniyaPen": 0,
+      "zabito": 4,
+      "propushcheno": 13,
+      "ochki": 6
+     },
+     {
+      "mesto": 4,
+      "komanda": "Родина",
+      "igry": 6,
+      "pobedy": 1,
+      "pobedyPen": 0,
+      "porazheniya": 4,
+      "porazheniyaPen": 1,
+      "zabito": 11,
+      "propushcheno": 14,
+      "ochki": 4
      }
     ]
    },
@@ -1176,6 +1644,120 @@
       "zabito": 3,
       "propushcheno": 8,
       "ochki": 3
+     }
+    ]
+   }
+  ],
+  "plejoff": [
+   {
+    "put": "Путь РПЛ",
+    "etapy": [
+     {
+      "nazvanie": "1/8 финала",
+      "pary": [
+       {
+        "komandy": [
+         "Крылья Советов",
+         "Краснодар"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-01",
+          "vremya": null,
+          "doma": "Крылья Советов",
+          "vgostyah": "Краснодар",
+          "schet": null,
+          "penalti": null
+         },
+         {
+          "data": "2027-03-15",
+          "vremya": null,
+          "doma": "Краснодар",
+          "vgostyah": "Крылья Советов",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       }
+      ]
+     },
+     {
+      "nazvanie": "1/4 финала",
+      "pary": []
+     },
+     {
+      "nazvanie": "1/2 финала",
+      "pary": []
+     }
+    ]
+   },
+   {
+    "put": "Путь регионов",
+    "etapy": [
+     {
+      "nazvanie": "1/8 финала",
+      "pary": [
+       {
+        "komandy": [
+         "СКА-Хабаровск",
+         "Акрон"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "СКА-Хабаровск",
+          "vgostyah": "Акрон",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       },
+       {
+        "komandy": [
+         "Волга",
+         "Рубин"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "Волга",
+          "vgostyah": "Рубин",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       },
+       {
+        "komandy": [
+         "Волна",
+         "Балтика"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "Волна",
+          "vgostyah": "Балтика",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       }
+      ]
+     },
+     {
+      "nazvanie": "1/4 финала",
+      "pary": []
+     },
+     {
+      "nazvanie": "1/2 финала",
+      "pary": []
      }
     ]
    }
