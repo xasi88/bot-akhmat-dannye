@@ -35,7 +35,7 @@ export function chislo(s) {
   return Number.isFinite(n) ? n : null;
 }
 
-export async function skachat(url, { popytki = 2 } = {}) {
+export async function skachat(url, { popytki = 3 } = {}) {
   let oshibka;
   for (let i = 0; i < popytki; i++) {
     try {

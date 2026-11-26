@@ -77,6 +77,7 @@ export function razobratGruppy(html) {
 }
 
 export async function sobratKubok() {
-  const [k, t] = await Promise.all([skachat(KALENDAR), skachat(TABLICY)]);
+  const k = await skachat(KALENDAR);
+  const t = await skachat(TABLICY);
   return { matchi: razobratKalendar(k), gruppy: razobratGruppy(t) };
 }

@@ -68,9 +68,11 @@ async function glavnaya() {
   try {
     kubok = proveritKubok(await sobratKubok());
   } catch (e) {
-    if (!proshlye) throw e;
+    // РФС пускает не все серверы GitHub: Кубок из прошлых данных, сбор не падает.
     preduprezhdeniya.push(`РФС: ${e.message}. Кубок из прошлых данных.`);
-    kubok = { matchi: proshlye.matchi.filter((m) => m.turnir === 'Кубок России'), gruppy: proshlye.kubok.gruppy };
+    kubok = proshlye
+      ? { matchi: proshlye.matchi.filter((m) => m.turnir === 'Кубок России'), gruppy: proshlye.kubok.gruppy }
+      : { matchi: [], gruppy: [] };
   }
 
   const dannye = sobratDannye({ rpl, kubok, istochnikRpl, preduprezhdeniya });
