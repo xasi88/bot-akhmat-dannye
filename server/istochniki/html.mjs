@@ -48,7 +48,8 @@ export async function skachat(url, { popytki = 2 } = {}) {
       return await otvet.text();
     } catch (e) {
       oshibka = e;
+      await new Promise((r) => setTimeout(r, 3000));
     }
   }
-  throw oshibka;
+  throw new Error(`${url}: ${oshibka.message}${oshibka.cause ? ` (${oshibka.cause.code ?? oshibka.cause.message})` : ''}`);
 }
