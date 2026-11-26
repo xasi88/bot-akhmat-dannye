@@ -1,5 +1,5 @@
 {
- "obnovleno": "2026-11-26T13:16:14.352Z",
+ "obnovleno": "2026-11-26T21:51:51.769Z",
  "istochniki": {
   "rpl": "Матч ТВ",
   "kubok": "РФС"
@@ -1399,25 +1399,25 @@
     {
      "mesto": 2,
      "komanda": "Динамо",
-     "igry": 5,
-     "pobedy": 3,
+     "igry": 6,
+     "pobedy": 4,
      "pobedyPen": 0,
      "porazheniya": 2,
      "porazheniyaPen": 0,
-     "zabito": 7,
-     "propushcheno": 4,
-     "ochki": 9
+     "zabito": 9,
+     "propushcheno": 5,
+     "ochki": 12
     },
     {
      "mesto": 3,
      "komanda": "Факел",
-     "igry": 5,
+     "igry": 6,
      "pobedy": 1,
      "pobedyPen": 1,
-     "porazheniya": 2,
+     "porazheniya": 3,
      "porazheniyaPen": 1,
-     "zabito": 4,
-     "propushcheno": 4,
+     "zabito": 5,
+     "propushcheno": 6,
      "ochki": 6
     },
     {
@@ -1453,25 +1453,25 @@
      {
       "mesto": 2,
       "komanda": "Динамо",
-      "igry": 5,
-      "pobedy": 3,
+      "igry": 6,
+      "pobedy": 4,
       "pobedyPen": 0,
       "porazheniya": 2,
       "porazheniyaPen": 0,
-      "zabito": 7,
-      "propushcheno": 4,
-      "ochki": 9
+      "zabito": 9,
+      "propushcheno": 5,
+      "ochki": 12
      },
      {
       "mesto": 3,
       "komanda": "Факел",
-      "igry": 5,
+      "igry": 6,
       "pobedy": 1,
       "pobedyPen": 1,
-      "porazheniya": 2,
+      "porazheniya": 3,
       "porazheniyaPen": 1,
-      "zabito": 4,
-      "propushcheno": 4,
+      "zabito": 5,
+      "propushcheno": 6,
       "ochki": 6
      },
      {
@@ -1494,26 +1494,26 @@
      {
       "mesto": 1,
       "komanda": "Спартак",
-      "igry": 5,
+      "igry": 6,
       "pobedy": 4,
       "pobedyPen": 0,
-      "porazheniya": 0,
+      "porazheniya": 1,
       "porazheniyaPen": 1,
       "zabito": 14,
-      "propushcheno": 5,
+      "propushcheno": 6,
       "ochki": 13
      },
      {
       "mesto": 2,
       "komanda": "Оренбург",
-      "igry": 5,
-      "pobedy": 3,
+      "igry": 6,
+      "pobedy": 4,
       "pobedyPen": 0,
       "porazheniya": 1,
       "porazheniyaPen": 1,
-      "zabito": 12,
+      "zabito": 13,
       "propushcheno": 9,
-      "ochki": 10
+      "ochki": 13
      },
      {
       "mesto": 3,
@@ -1657,12 +1657,37 @@
       "pary": [
        {
         "komandy": [
+         "Динамо",
+         "Зенит"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-02",
+          "vremya": null,
+          "doma": "Динамо",
+          "vgostyah": "Зенит",
+          "schet": null,
+          "penalti": null
+         },
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "Зенит",
+          "vgostyah": "Динамо",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       },
+       {
+        "komandy": [
          "Крылья Советов",
          "Краснодар"
         ],
         "matchi": [
          {
-          "data": "2027-03-01",
+          "data": "2027-03-02",
           "vremya": null,
           "doma": "Крылья Советов",
           "vgostyah": "Краснодар",
@@ -1670,10 +1695,60 @@
           "penalti": null
          },
          {
-          "data": "2027-03-15",
+          "data": "2027-03-16",
           "vremya": null,
           "doma": "Краснодар",
           "vgostyah": "Крылья Советов",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       },
+       {
+        "komandy": [
+         "Оренбург",
+         "Ростов"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-02",
+          "vremya": null,
+          "doma": "Оренбург",
+          "vgostyah": "Ростов",
+          "schet": null,
+          "penalti": null
+         },
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "Ростов",
+          "vgostyah": "Оренбург",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       },
+       {
+        "komandy": [
+         "ЦСКА",
+         "Спартак"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-02",
+          "vremya": null,
+          "doma": "ЦСКА",
+          "vgostyah": "Спартак",
+          "schet": null,
+          "penalti": null
+         },
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "Спартак",
+          "vgostyah": "ЦСКА",
           "schet": null,
           "penalti": null
          }
@@ -1709,6 +1784,23 @@
           "vremya": null,
           "doma": "СКА-Хабаровск",
           "vgostyah": "Акрон",
+          "schet": null,
+          "penalti": null
+         }
+        ],
+        "pobeditel": null
+       },
+       {
+        "komandy": [
+         "Нижний Новгород",
+         "Факел"
+        ],
+        "matchi": [
+         {
+          "data": "2027-03-16",
+          "vremya": null,
+          "doma": "Нижний Новгород",
+          "vgostyah": "Факел",
           "schet": null,
           "penalti": null
          }
