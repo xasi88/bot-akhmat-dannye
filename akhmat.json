@@ -1,0 +1,1182 @@
+{
+ "obnovleno": "2026-11-26T12:39:27.242Z",
+ "istochniki": {
+  "rpl": "Матч ТВ",
+  "kubok": "РФС"
+ },
+ "preduprezhdeniya": [],
+ "sleduyushchiy": {
+  "id": "rpl-552665062",
+  "turnir": "РПЛ",
+  "etap": "16 тур",
+  "data": "2026-11-28",
+  "vremya": "19:00",
+  "doma": "Балтика",
+  "vgostyah": "Ахмат",
+  "schet": null
+ },
+ "poslednie": [
+  {
+   "id": "kubok-57192",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 6",
+   "data": "2026-11-25",
+   "vremya": "18:00",
+   "doma": "Ахмат",
+   "vgostyah": "Краснодар",
+   "schet": [
+    0,
+    3
+   ],
+   "penalti": null
+  },
+  {
+   "id": "rpl-552665054",
+   "turnir": "РПЛ",
+   "etap": "15 тур",
+   "data": "2026-11-21",
+   "vremya": null,
+   "doma": "ЦСКА",
+   "vgostyah": "Ахмат",
+   "schet": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "rpl-552665046",
+   "turnir": "РПЛ",
+   "etap": "14 тур",
+   "data": "2026-11-07",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Родина",
+   "schet": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "rpl-552665038",
+   "turnir": "РПЛ",
+   "etap": "13 тур",
+   "data": "2026-10-31",
+   "vremya": null,
+   "doma": "Динамо М",
+   "vgostyah": "Ахмат",
+   "schet": [
+    2,
+    0
+   ]
+  },
+  {
+   "id": "kubok-57187",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 5",
+   "data": "2026-10-27",
+   "vremya": "18:00",
+   "doma": "Факел",
+   "vgostyah": "Ахмат",
+   "schet": [
+    0,
+    0
+   ],
+   "penalti": [
+    3,
+    1
+   ]
+  }
+ ],
+ "matchi": [
+  {
+   "id": "rpl-552664936",
+   "turnir": "РПЛ",
+   "etap": "1 тур",
+   "data": "2026-07-26",
+   "vremya": null,
+   "doma": "Локомотив",
+   "vgostyah": "Ахмат",
+   "schet": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "rpl-552664943",
+   "turnir": "РПЛ",
+   "etap": "2 тур",
+   "data": "2026-08-02",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Спартак",
+   "schet": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "kubok-57186",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 1",
+   "data": "2026-08-05",
+   "vremya": "20:45",
+   "doma": "Краснодар",
+   "vgostyah": "Ахмат",
+   "schet": [
+    1,
+    1
+   ],
+   "penalti": [
+    5,
+    4
+   ]
+  },
+  {
+   "id": "rpl-552664951",
+   "turnir": "РПЛ",
+   "etap": "3 тур",
+   "data": "2026-08-10",
+   "vremya": null,
+   "doma": "Факел",
+   "vgostyah": "Ахмат",
+   "schet": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": "rpl-552664962",
+   "turnir": "РПЛ",
+   "etap": "4 тур",
+   "data": "2026-08-15",
+   "vremya": null,
+   "doma": "Краснодар",
+   "vgostyah": "Ахмат",
+   "schet": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "kubok-57181",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 2",
+   "data": "2026-08-18",
+   "vremya": "20:45",
+   "doma": "Ахмат",
+   "vgostyah": "Факел",
+   "schet": [
+    2,
+    1
+   ],
+   "penalti": null
+  },
+  {
+   "id": "rpl-552664973",
+   "turnir": "РПЛ",
+   "etap": "5 тур",
+   "data": "2026-08-22",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Ростов",
+   "schet": [
+    4,
+    1
+   ]
+  },
+  {
+   "id": "rpl-552664979",
+   "turnir": "РПЛ",
+   "etap": "6 тур",
+   "data": "2026-08-29",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Крылья Советов",
+   "schet": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "kubok-57189",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 3",
+   "data": "2026-09-03",
+   "vremya": "19:30",
+   "doma": "Динамо",
+   "vgostyah": "Ахмат",
+   "schet": [
+    3,
+    0
+   ],
+   "penalti": null
+  },
+  {
+   "id": "rpl-552664983",
+   "turnir": "РПЛ",
+   "etap": "7 тур",
+   "data": "2026-09-07",
+   "vremya": null,
+   "doma": "Рубин",
+   "vgostyah": "Ахмат",
+   "schet": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "rpl-552664993",
+   "turnir": "РПЛ",
+   "etap": "8 тур",
+   "data": "2026-09-13",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Динамо Мх",
+   "schet": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "rpl-552665000",
+   "turnir": "РПЛ",
+   "etap": "9 тур",
+   "data": "2026-09-17",
+   "vremya": null,
+   "doma": "Акрон",
+   "vgostyah": "Ахмат",
+   "schet": [
+    2,
+    0
+   ]
+  },
+  {
+   "id": "rpl-552665007",
+   "turnir": "РПЛ",
+   "etap": "10 тур",
+   "data": "2026-10-11",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Балтика",
+   "schet": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": "kubok-57183",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 4",
+   "data": "2026-10-14",
+   "vremya": "18:30",
+   "doma": "Ахмат",
+   "vgostyah": "Динамо",
+   "schet": [
+    1,
+    2
+   ],
+   "penalti": null
+  },
+  {
+   "id": "rpl-552665020",
+   "turnir": "РПЛ",
+   "etap": "11 тур",
+   "data": "2026-10-18",
+   "vremya": null,
+   "doma": "Зенит",
+   "vgostyah": "Ахмат",
+   "schet": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "rpl-552665024",
+   "turnir": "РПЛ",
+   "etap": "12 тур",
+   "data": "2026-10-23",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Оренбург",
+   "schet": [
+    0,
+    1
+   ]
+  },
+  {
+   "id": "kubok-57187",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 5",
+   "data": "2026-10-27",
+   "vremya": "18:00",
+   "doma": "Факел",
+   "vgostyah": "Ахмат",
+   "schet": [
+    0,
+    0
+   ],
+   "penalti": [
+    3,
+    1
+   ]
+  },
+  {
+   "id": "rpl-552665038",
+   "turnir": "РПЛ",
+   "etap": "13 тур",
+   "data": "2026-10-31",
+   "vremya": null,
+   "doma": "Динамо М",
+   "vgostyah": "Ахмат",
+   "schet": [
+    2,
+    0
+   ]
+  },
+  {
+   "id": "rpl-552665046",
+   "turnir": "РПЛ",
+   "etap": "14 тур",
+   "data": "2026-11-07",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Родина",
+   "schet": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "rpl-552665054",
+   "turnir": "РПЛ",
+   "etap": "15 тур",
+   "data": "2026-11-21",
+   "vremya": null,
+   "doma": "ЦСКА",
+   "vgostyah": "Ахмат",
+   "schet": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "kubok-57192",
+   "turnir": "Кубок России",
+   "put": "Путь РПЛ",
+   "etap": "Групповой этап, Тур 6",
+   "data": "2026-11-25",
+   "vremya": "18:00",
+   "doma": "Ахмат",
+   "vgostyah": "Краснодар",
+   "schet": [
+    0,
+    3
+   ],
+   "penalti": null
+  },
+  {
+   "id": "rpl-552665062",
+   "turnir": "РПЛ",
+   "etap": "16 тур",
+   "data": "2026-11-28",
+   "vremya": "19:00",
+   "doma": "Балтика",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665063",
+   "turnir": "РПЛ",
+   "etap": "17 тур",
+   "data": "2026-12-05",
+   "vremya": "19:45",
+   "doma": "Ахмат",
+   "vgostyah": "Локомотив",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665072",
+   "turnir": "РПЛ",
+   "etap": "18 тур",
+   "data": "2027-02-26",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Акрон",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665081",
+   "turnir": "РПЛ",
+   "etap": "19 тур",
+   "data": "2027-03-05",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Рубин",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665092",
+   "turnir": "РПЛ",
+   "etap": "20 тур",
+   "data": "2027-03-12",
+   "vremya": null,
+   "doma": "Спартак",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665102",
+   "turnir": "РПЛ",
+   "etap": "21 тур",
+   "data": "2027-03-19",
+   "vremya": null,
+   "doma": "Крылья Советов",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665104",
+   "turnir": "РПЛ",
+   "etap": "22 тур",
+   "data": "2027-04-03",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Факел",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665115",
+   "turnir": "РПЛ",
+   "etap": "23 тур",
+   "data": "2027-04-10",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Динамо М",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665126",
+   "turnir": "РПЛ",
+   "etap": "24 тур",
+   "data": "2027-04-16",
+   "vremya": null,
+   "doma": "Ростов",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665128",
+   "turnir": "РПЛ",
+   "etap": "25 тур",
+   "data": "2027-04-23",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Зенит",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665139",
+   "turnir": "РПЛ",
+   "etap": "26 тур",
+   "data": "2027-05-01",
+   "vremya": null,
+   "doma": "Динамо Мх",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665145",
+   "turnir": "РПЛ",
+   "etap": "27 тур",
+   "data": "2027-05-08",
+   "vremya": null,
+   "doma": "Родина",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665152",
+   "turnir": "РПЛ",
+   "etap": "28 тур",
+   "data": "2027-05-15",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "Краснодар",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665164",
+   "turnir": "РПЛ",
+   "etap": "29 тур",
+   "data": "2027-05-22",
+   "vremya": null,
+   "doma": "Оренбург",
+   "vgostyah": "Ахмат",
+   "schet": null
+  },
+  {
+   "id": "rpl-552665171",
+   "turnir": "РПЛ",
+   "etap": "30 тур",
+   "data": "2027-05-29",
+   "vremya": null,
+   "doma": "Ахмат",
+   "vgostyah": "ЦСКА",
+   "schet": null
+  }
+ ],
+ "rpl": {
+  "tablica": [
+   {
+    "mesto": 1,
+    "komanda": "Динамо М",
+    "igry": 15,
+    "pobedy": 10,
+    "nichi": 2,
+    "porazheniya": 3,
+    "zabito": 24,
+    "propushcheno": 14,
+    "ochki": 32
+   },
+   {
+    "mesto": 2,
+    "komanda": "Зенит",
+    "igry": 15,
+    "pobedy": 10,
+    "nichi": 1,
+    "porazheniya": 4,
+    "zabito": 33,
+    "propushcheno": 18,
+    "ochki": 31
+   },
+   {
+    "mesto": 3,
+    "komanda": "Спартак",
+    "igry": 15,
+    "pobedy": 9,
+    "nichi": 3,
+    "porazheniya": 3,
+    "zabito": 28,
+    "propushcheno": 12,
+    "ochki": 30
+   },
+   {
+    "mesto": 4,
+    "komanda": "Краснодар",
+    "igry": 15,
+    "pobedy": 7,
+    "nichi": 6,
+    "porazheniya": 2,
+    "zabito": 26,
+    "propushcheno": 19,
+    "ochki": 27
+   },
+   {
+    "mesto": 5,
+    "komanda": "ЦСКА",
+    "igry": 15,
+    "pobedy": 7,
+    "nichi": 5,
+    "porazheniya": 3,
+    "zabito": 24,
+    "propushcheno": 18,
+    "ochki": 26
+   },
+   {
+    "mesto": 6,
+    "komanda": "Ростов",
+    "igry": 15,
+    "pobedy": 6,
+    "nichi": 4,
+    "porazheniya": 5,
+    "zabito": 21,
+    "propushcheno": 19,
+    "ochki": 22
+   },
+   {
+    "mesto": 7,
+    "komanda": "Рубин",
+    "igry": 15,
+    "pobedy": 5,
+    "nichi": 6,
+    "porazheniya": 4,
+    "zabito": 17,
+    "propushcheno": 19,
+    "ochki": 21
+   },
+   {
+    "mesto": 8,
+    "komanda": "Балтика",
+    "igry": 15,
+    "pobedy": 5,
+    "nichi": 5,
+    "porazheniya": 5,
+    "zabito": 19,
+    "propushcheno": 15,
+    "ochki": 20
+   },
+   {
+    "mesto": 9,
+    "komanda": "Крылья Советов",
+    "igry": 15,
+    "pobedy": 4,
+    "nichi": 6,
+    "porazheniya": 5,
+    "zabito": 19,
+    "propushcheno": 23,
+    "ochki": 18
+   },
+   {
+    "mesto": 10,
+    "komanda": "Оренбург",
+    "igry": 15,
+    "pobedy": 3,
+    "nichi": 8,
+    "porazheniya": 4,
+    "zabito": 14,
+    "propushcheno": 16,
+    "ochki": 17
+   },
+   {
+    "mesto": 11,
+    "komanda": "Ахмат",
+    "igry": 15,
+    "pobedy": 4,
+    "nichi": 5,
+    "porazheniya": 6,
+    "zabito": 18,
+    "propushcheno": 20,
+    "ochki": 17
+   },
+   {
+    "mesto": 12,
+    "komanda": "Динамо Мх",
+    "igry": 15,
+    "pobedy": 5,
+    "nichi": 2,
+    "porazheniya": 8,
+    "zabito": 18,
+    "propushcheno": 27,
+    "ochki": 17
+   },
+   {
+    "mesto": 13,
+    "komanda": "Локомотив",
+    "igry": 15,
+    "pobedy": 3,
+    "nichi": 5,
+    "porazheniya": 7,
+    "zabito": 17,
+    "propushcheno": 21,
+    "ochki": 14
+   },
+   {
+    "mesto": 14,
+    "komanda": "Родина",
+    "igry": 15,
+    "pobedy": 3,
+    "nichi": 3,
+    "porazheniya": 9,
+    "zabito": 15,
+    "propushcheno": 30,
+    "ochki": 12
+   },
+   {
+    "mesto": 15,
+    "komanda": "Акрон",
+    "igry": 15,
+    "pobedy": 2,
+    "nichi": 6,
+    "porazheniya": 7,
+    "zabito": 17,
+    "propushcheno": 27,
+    "ochki": 12
+   },
+   {
+    "mesto": 16,
+    "komanda": "Факел",
+    "igry": 15,
+    "pobedy": 2,
+    "nichi": 3,
+    "porazheniya": 10,
+    "zabito": 11,
+    "propushcheno": 23,
+    "ochki": 9
+   }
+  ],
+  "statistika": {
+   "bombardiry": [
+    {
+     "imya": "Максим Глушенков",
+     "komanda": "Зенит",
+     "goly": 10,
+     "penalti": 1,
+     "ahmat": false
+    },
+    {
+     "imya": "Александр Соболев",
+     "komanda": "Зенит",
+     "goly": 10,
+     "penalti": 3,
+     "ahmat": false
+    },
+    {
+     "imya": "Джон Кордоба",
+     "komanda": "Краснодар",
+     "goly": 7,
+     "penalti": 0,
+     "ahmat": false
+    },
+    {
+     "imya": "Константин Тюкавин",
+     "komanda": "Динамо М",
+     "goly": 7,
+     "penalti": 1,
+     "ahmat": false
+    },
+    {
+     "imya": "Иван Обляков",
+     "komanda": "ЦСКА",
+     "goly": 7,
+     "penalti": 4,
+     "ahmat": false
+    },
+    {
+     "imya": "Манфред Угальде",
+     "komanda": "Спартак",
+     "goly": 6,
+     "penalti": 0,
+     "ahmat": false
+    },
+    {
+     "imya": "Гамид Агаларов",
+     "komanda": "Динамо Мх",
+     "goly": 5,
+     "penalti": 0,
+     "ahmat": false
+    },
+    {
+     "imya": "Жоау Батчи",
+     "komanda": "Краснодар",
+     "goly": 5,
+     "penalti": 0,
+     "ahmat": false
+    },
+    {
+     "imya": "Мирлинд Даку",
+     "komanda": "Спартак",
+     "goly": 5,
+     "penalti": 1,
+     "ahmat": false
+    },
+    {
+     "imya": "Амар Рахманович",
+     "komanda": "Крылья Советов",
+     "goly": 5,
+     "penalti": 1,
+     "ahmat": false
+    }
+   ],
+   "assistenty": [
+    {
+     "imya": "Энрике Педро",
+     "komanda": "Зенит",
+     "peredachi": 7,
+     "ahmat": false
+    },
+    {
+     "imya": "Максим Глушенков",
+     "komanda": "Зенит",
+     "peredachi": 5,
+     "ahmat": false
+    },
+    {
+     "imya": "Роберто Кристиан Краснодар",
+     "komanda": "Краснодар",
+     "peredachi": 4,
+     "ahmat": false
+    },
+    {
+     "imya": "Коста Маркиньос",
+     "komanda": "Спартак",
+     "peredachi": 4,
+     "ahmat": false
+    },
+    {
+     "imya": "Иван Олейников",
+     "komanda": "ЦСКА",
+     "peredachi": 4,
+     "ahmat": false
+    },
+    {
+     "imya": "Иван Сергеев",
+     "komanda": "Динамо М",
+     "peredachi": 3,
+     "ahmat": false
+    },
+    {
+     "imya": "Дмитрий Воробьёв",
+     "komanda": "Краснодар",
+     "peredachi": 3,
+     "ahmat": false
+    },
+    {
+     "imya": "Даниил Лесовой",
+     "komanda": "Динамо Мх",
+     "peredachi": 3,
+     "ahmat": false
+    },
+    {
+     "imya": "Зелимхан Бакаев",
+     "komanda": "Локомотив",
+     "peredachi": 3,
+     "ahmat": false
+    },
+    {
+     "imya": "Лечи Садулаев",
+     "komanda": "Ахмат",
+     "peredachi": 3,
+     "ahmat": true
+    }
+   ],
+   "glyas": [
+    {
+     "imya": "Максим Глушенков",
+     "komanda": "Зенит",
+     "ochki": 15,
+     "ahmat": false
+    },
+    {
+     "imya": "Александр Соболев",
+     "komanda": "Зенит",
+     "ochki": 12,
+     "ahmat": false
+    },
+    {
+     "imya": "Иван Обляков",
+     "komanda": "ЦСКА",
+     "ochki": 9,
+     "ahmat": false
+    },
+    {
+     "imya": "Джон Кордоба",
+     "komanda": "Краснодар",
+     "ochki": 8,
+     "ahmat": false
+    },
+    {
+     "imya": "Константин Тюкавин",
+     "komanda": "Динамо М",
+     "ochki": 8,
+     "ahmat": false
+    },
+    {
+     "imya": "Жоау Батчи",
+     "komanda": "Краснодар",
+     "ochki": 8,
+     "ahmat": false
+    },
+    {
+     "imya": "Лечи Садулаев",
+     "komanda": "Ахмат",
+     "ochki": 7,
+     "ahmat": true
+    },
+    {
+     "imya": "Роберто Кристиан Краснодар",
+     "komanda": "Краснодар",
+     "ochki": 7,
+     "ahmat": false
+    },
+    {
+     "imya": "Иван Олейников",
+     "komanda": "ЦСКА",
+     "ochki": 7,
+     "ahmat": false
+    },
+    {
+     "imya": "Энрике Педро",
+     "komanda": "Зенит",
+     "ochki": 7,
+     "ahmat": false
+    }
+   ]
+  }
+ },
+ "kubok": {
+  "gruppa": {
+   "nazvanie": "Группа B",
+   "komandy": [
+    {
+     "mesto": 1,
+     "komanda": "Краснодар",
+     "igry": 6,
+     "pobedy": 3,
+     "pobedyPen": 2,
+     "porazheniya": 1,
+     "porazheniyaPen": 0,
+     "zabito": 8,
+     "propushcheno": 5,
+     "ochki": 13
+    },
+    {
+     "mesto": 2,
+     "komanda": "Динамо",
+     "igry": 5,
+     "pobedy": 3,
+     "pobedyPen": 0,
+     "porazheniya": 2,
+     "porazheniyaPen": 0,
+     "zabito": 7,
+     "propushcheno": 4,
+     "ochki": 9
+    },
+    {
+     "mesto": 3,
+     "komanda": "Факел",
+     "igry": 5,
+     "pobedy": 1,
+     "pobedyPen": 1,
+     "porazheniya": 2,
+     "porazheniyaPen": 1,
+     "zabito": 4,
+     "propushcheno": 4,
+     "ochki": 6
+    },
+    {
+     "mesto": 4,
+     "komanda": "Ахмат",
+     "igry": 6,
+     "pobedy": 1,
+     "pobedyPen": 0,
+     "porazheniya": 3,
+     "porazheniyaPen": 2,
+     "zabito": 4,
+     "propushcheno": 10,
+     "ochki": 5
+    }
+   ]
+  },
+  "gruppy": [
+   {
+    "nazvanie": "Группа А",
+    "komandy": [
+     {
+      "mesto": 1,
+      "komanda": "Спартак",
+      "igry": 5,
+      "pobedy": 4,
+      "pobedyPen": 0,
+      "porazheniya": 0,
+      "porazheniyaPen": 1,
+      "zabito": 14,
+      "propushcheno": 5,
+      "ochki": 13
+     },
+     {
+      "mesto": 2,
+      "komanda": "Оренбург",
+      "igry": 5,
+      "pobedy": 3,
+      "pobedyPen": 0,
+      "porazheniya": 1,
+      "porazheniyaPen": 1,
+      "zabito": 12,
+      "propushcheno": 9,
+      "ochki": 10
+     },
+     {
+      "mesto": 3,
+      "komanda": "Рубин",
+      "igry": 6,
+      "pobedy": 0,
+      "pobedyPen": 3,
+      "porazheniya": 3,
+      "porazheniyaPen": 0,
+      "zabito": 4,
+      "propushcheno": 13,
+      "ochki": 6
+     },
+     {
+      "mesto": 4,
+      "komanda": "Родина",
+      "igry": 6,
+      "pobedy": 1,
+      "pobedyPen": 0,
+      "porazheniya": 4,
+      "porazheniyaPen": 1,
+      "zabito": 11,
+      "propushcheno": 14,
+      "ochki": 4
+     }
+    ]
+   },
+   {
+    "nazvanie": "Группа B",
+    "komandy": [
+     {
+      "mesto": 1,
+      "komanda": "Краснодар",
+      "igry": 6,
+      "pobedy": 3,
+      "pobedyPen": 2,
+      "porazheniya": 1,
+      "porazheniyaPen": 0,
+      "zabito": 8,
+      "propushcheno": 5,
+      "ochki": 13
+     },
+     {
+      "mesto": 2,
+      "komanda": "Динамо",
+      "igry": 5,
+      "pobedy": 3,
+      "pobedyPen": 0,
+      "porazheniya": 2,
+      "porazheniyaPen": 0,
+      "zabito": 7,
+      "propushcheno": 4,
+      "ochki": 9
+     },
+     {
+      "mesto": 3,
+      "komanda": "Факел",
+      "igry": 5,
+      "pobedy": 1,
+      "pobedyPen": 1,
+      "porazheniya": 2,
+      "porazheniyaPen": 1,
+      "zabito": 4,
+      "propushcheno": 4,
+      "ochki": 6
+     },
+     {
+      "mesto": 4,
+      "komanda": "Ахмат",
+      "igry": 6,
+      "pobedy": 1,
+      "pobedyPen": 0,
+      "porazheniya": 3,
+      "porazheniyaPen": 2,
+      "zabito": 4,
+      "propushcheno": 10,
+      "ochki": 5
+     }
+    ]
+   },
+   {
+    "nazvanie": "Группа C",
+    "komandy": [
+     {
+      "mesto": 1,
+      "komanda": "Зенит",
+      "igry": 6,
+      "pobedy": 5,
+      "pobedyPen": 1,
+      "porazheniya": 0,
+      "porazheniyaPen": 0,
+      "zabito": 10,
+      "propushcheno": 3,
+      "ochki": 17
+     },
+     {
+      "mesto": 2,
+      "komanda": "Крылья Советов",
+      "igry": 6,
+      "pobedy": 2,
+      "pobedyPen": 1,
+      "porazheniya": 2,
+      "porazheniyaPen": 1,
+      "zabito": 4,
+      "propushcheno": 4,
+      "ochki": 9
+     },
+     {
+      "mesto": 3,
+      "komanda": "Балтика",
+      "igry": 6,
+      "pobedy": 1,
+      "pobedyPen": 1,
+      "porazheniya": 3,
+      "porazheniyaPen": 1,
+      "zabito": 5,
+      "propushcheno": 8,
+      "ochki": 6
+     },
+     {
+      "mesto": 4,
+      "komanda": "Динамо Мх",
+      "igry": 6,
+      "pobedy": 1,
+      "pobedyPen": 0,
+      "porazheniya": 4,
+      "porazheniyaPen": 1,
+      "zabito": 6,
+      "propushcheno": 10,
+      "ochki": 4
+     }
+    ]
+   },
+   {
+    "nazvanie": "Группа D",
+    "komandy": [
+     {
+      "mesto": 1,
+      "komanda": "Ростов",
+      "igry": 6,
+      "pobedy": 5,
+      "pobedyPen": 0,
+      "porazheniya": 1,
+      "porazheniyaPen": 0,
+      "zabito": 15,
+      "propushcheno": 5,
+      "ochki": 15
+     },
+     {
+      "mesto": 2,
+      "komanda": "ЦСКА",
+      "igry": 6,
+      "pobedy": 3,
+      "pobedyPen": 1,
+      "porazheniya": 2,
+      "porazheniyaPen": 0,
+      "zabito": 9,
+      "propushcheno": 5,
+      "ochki": 11
+     },
+     {
+      "mesto": 3,
+      "komanda": "Акрон",
+      "igry": 6,
+      "pobedy": 1,
+      "pobedyPen": 2,
+      "porazheniya": 3,
+      "porazheniyaPen": 0,
+      "zabito": 3,
+      "propushcheno": 12,
+      "ochki": 7
+     },
+     {
+      "mesto": 4,
+      "komanda": "Локомотив",
+      "igry": 6,
+      "pobedy": 0,
+      "pobedyPen": 0,
+      "porazheniya": 3,
+      "porazheniyaPen": 3,
+      "zabito": 3,
+      "propushcheno": 8,
+      "ochki": 3
+     }
+    ]
+   }
+  ]
+ }
+}
